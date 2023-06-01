@@ -13,7 +13,7 @@ let input = document.querySelector("input");
 let start = document.querySelector(".start");
 
 
-
+ 
 
 title.innerHTML = "A New Day";
 
